@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as r}from"./BbMLE_tn.js";const s={},a={style:{"text-align":"center","margin-top":"40px"}};function c(l,e){return r(),o("div",a,[...e[0]||(e[0]=[t("h1",null,"🏠 صفحه اصلی",-1),t("p",null,"به اپلیکیشن Nuxt خوش آمدی!",-1)])])}const i=n(s,[["render",c]]);export{i as default};
